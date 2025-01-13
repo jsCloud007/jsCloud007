@@ -1,8 +1,7 @@
 [<img src="https://komarev.com/ghpvc/?username=jsCloud007" alt="jsCloud007's profile views" align="right" />](https://github.com/Meghna-DAS/github-profile-views-counter)
 
 <br/>
-<div align="center" >
-  <img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/>
+<div align="center" >  
   <br><br>
   <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
   
