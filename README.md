@@ -4,9 +4,7 @@
 <div align="center" >  
   <br><br>
   <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
-
+  <h1>Senior Full Stack Developer</h1>
 </div>
 
 With 5+ years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
