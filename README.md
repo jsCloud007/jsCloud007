@@ -1,5 +1,3 @@
-[<img src="https://komarev.com/ghpvc/?username=ChebacGrigore" alt="ChebacGrigore's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
-
 <br>
 <div align="center" >
   <img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/>
