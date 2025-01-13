@@ -2,8 +2,7 @@
 
 <br/>
 <div align="center" >  
-  <br><br>
-  <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+  <br><br>  
   <h1>Senior Full Stack Developer</h1>
 </div>
 
