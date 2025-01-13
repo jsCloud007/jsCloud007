@@ -6,13 +6,12 @@
   <h1>Senior Full Stack Developer</h1>
 </div>
 
-With 5+ years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+With over 10 years of experience in full-stack web and mobile app development for global businesses, I bring the technical expertise you're seeking for your Web and Mobile Developer position advertised on IT.
 
-As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
-I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
+As a developer dedicated to customer satisfaction, I oversee all stages of web and mobile development—from concept and requirements gathering to design, development, launch, maintenance, and user support. I thrive in client-facing roles and enjoy collaborating closely with team members to deliver high-quality results.
 
-If my skills match your requirements, please contact me. 
-Thanks.
+If my skills align with your needs, I’d be happy to discuss further. 
+Thank you for your time and consideration!
 
 ### - Languages and Tools...
 
