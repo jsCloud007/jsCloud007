@@ -74,8 +74,8 @@ while (me.isAlive()) {
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
- 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
+      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/6PackPromise.png" width="100%" />
+ 			<p align="center"><a href="https://yourplayerspal.com/">6 Pack Promise: React Native</a><p> 
     </p>
   </td>
  </tr>
