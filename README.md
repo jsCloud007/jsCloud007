@@ -82,14 +82,14 @@ while (me.isAlive()) {
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/watc.png" width="100%" />
-        <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
+        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/Gymble.png" width="100%" />
+        <p align="center"><a href="https://gymble.us/">Gymble: React</a></p>
       </p>
     </td>
     <td>
       <p align="center">
         <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/payrexx.png" width="100%" />
-        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
+        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js</a></p>
       </p>
     </td>
   </tr>
