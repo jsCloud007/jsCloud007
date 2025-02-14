@@ -68,13 +68,13 @@ while (me.isAlive()) {
  <tr>
     <td>
     <p align="center">
-      <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
+      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
       <p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
     </p>
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
+      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
  			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
     </p>
   </td>
@@ -82,13 +82,13 @@ while (me.isAlive()) {
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/watc.png" width="100%" />
+        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/watc.png" width="100%" />
         <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/payrexx.png" width="100%" />
+        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/payrexx.png" width="100%" />
         <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
       </p>
     </td>
