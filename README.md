@@ -1,6 +1,3 @@
-[<img src="https://komarev.com/ghpvc/?username=jsCloud007" alt="jsCloud007's profile views" align="right" />](https://github.com/Meghna-DAS/github-profile-views-counter)
-
-<br/>
 <div align="center" >  
   <br><br>  
   <h1>Senior Full Stack Developer</h1>
